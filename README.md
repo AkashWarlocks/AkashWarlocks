@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @AkashWarlocks
-- 👀 I’m interested in Blockchain developement
-- Into ERC20 and ERC721
+- 👋 Hi, I’m @AkashWarlocks.
+- 👀 I’m interested in Blockchain developement.
+- Experience in Nodejs Solidity and Web3JS.
+- Enjoying Rust along the way.
