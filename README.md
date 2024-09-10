@@ -5,14 +5,15 @@
 
 ---
 
-🚀 About Me
-I'm a passionate Blockchain Developer with extensive experience in smart contract development and backend solutions. I specialize in building secure, scalable, and high-performance smart contracts using Solidity, and I deploy them on platforms like Ethereum and Polygon. My expertise extends to using advanced tools like Hardhat and Foundry for contract development, testing, and deployment in both local and live environments, ensuring smart contracts are thoroughly tested and optimized for gas efficiency and security.
+🚀 **About Me**  
 
-In addition to smart contract development, I leverage Foundry to write comprehensive tests, implement fuzz testing, and use symbolic execution to ensure the reliability and robustness of smart contracts. This approach allows me to anticipate and mitigate potential vulnerabilities before deployment.
+I'm a passionate **Blockchain Developer ** with extensive experience in **smart contract development and backend solutions**. I specialize in building secure, scalable, and high-performance smart contracts using Solidity, and I deploy them on platforms like Ethereum and Polygon. My expertise extends to using advanced tools like Hardhat and Foundry for contract development, testing, and deployment in both local and live environments, ensuring smart contracts are thoroughly tested and optimized for gas efficiency and security.
 
-On the backend side, my skills with Node.js and Golang allow me to design and implement robust architectures that seamlessly integrate with blockchain networks. I also have experience scaling systems to handle thousands of concurrent users while maintaining security and efficiency.
+In addition to smart contract development, I leverage Foundry to write comprehensive tests, implement **fuzz testing**, and use symbolic execution to ensure the reliability and robustness of smart contracts. This approach allows me to anticipate and mitigate potential vulnerabilities before deployment.
 
-Committed to innovation, I adopt cutting-edge cryptography techniques such as zk-SNARKs and Circom to enhance privacy and security in blockchain applications. My focus on security best practices, including formal verification and reentrancy protection, ensures that the solutions I build are resilient and trustworthy.
+On the backend side, my skills with **Node.js and Golang** allow me to design and implement robust architectures that seamlessly integrate with blockchain networks. I also have experience scaling systems to handle thousands of concurrent users while maintaining security and efficiency.
+
+Committed to innovation, I adopt cutting-edge cryptography techniques such as** zk-SNARKs and Circom ** to enhance privacy and security in blockchain applications. My focus on security best practices, including formal verification and reentrancy protection, ensures that the solutions I build are resilient and trustworthy.
 
 I enjoy working on challenging projects that push the boundaries of blockchain technology and collaborating with teams to deliver impactful solutions.
 
