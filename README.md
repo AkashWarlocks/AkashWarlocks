@@ -39,6 +39,6 @@ I enjoy working on challenging projects that push the boundaries of blockchain t
 
 📫 **Connect with Me**
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/akash-kulkarni-78b998152/)
-- **Email**: [your.email@example.com](mailto:akashkulkarni796@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/akash-kulkarni-78b998152/)
+- **Email**: [Email](mailto:akashkulkarni796@gmail.com)
 
